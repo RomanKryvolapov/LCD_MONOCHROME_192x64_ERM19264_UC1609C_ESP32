@@ -17,7 +17,7 @@
 <h3>A = Anode = VCC</h3>
 <h3>K = Cathode = GND</h3>
 
-![1!](https://github.com/RomanKryvolapov/LCD_MONOCHROME_128x64_GMG12864-06D_ST7565_ESP32/blob/master/Display.jpg "1")
+![1!](https://github.com/RomanKryvolapov/LCD_MONOCHROME_192x64_ERM19264_UC1609C_ESP32/blob/master/Display.jpg "1")
 
-![2!](https://github.com/RomanKryvolapov/LCD_MONOCHROME_128x64_GMG12864-06D_ST7565_ESP32/blob/master/ESP32-Pinout.png "2")
+![2!](https://github.com/RomanKryvolapov/LCD_MONOCHROME_192x64_ERM19264_UC1609C_ESP32/blob/master/ESP32-Pinout.png "2")
 
